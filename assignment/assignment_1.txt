@@ -1,1 +1,7 @@
-my name is safal mehar shrestha
+Chapter 1: An overview of the internet And the web
+Group A: short question answer:
+
+ 1.) Define the term " Protocol" is the context of the Internet.
+Ans:- In the internet, a protocol is a standardized set of rules and formats that govern how data is structured, transmitted, and received between devices, enabling seamless communication and data exchange across diverse networks and systems, much like a common language for computers.
+
+2.) What is 
