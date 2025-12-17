@@ -4,4 +4,24 @@ Group A: short question answer:
  1.) Define the term " Protocol" is the context of the Internet.
 Ans:- In the internet, a protocol is a standardized set of rules and formats that govern how data is structured, transmitted, and received between devices, enabling seamless communication and data exchange across diverse networks and systems, much like a common language for computers.
 
-2.) What is 
+2.) What is the primary difference between a Web Browser and a Search Engine?
+Ans: Web Browser is an application used to access and display web pages. whereas Search engine is a web-based service used to find information on the internet.
+
+3.)  Define the World Wide Web (WWW).
+Ans: The World Wide Web [WWW] is a sustem of interlinked web pages and multimedia resources that are accessed over the internet using web browser through HTTP/HTTPs protocols.
+
+4.)  Distinguish between a static web page and a dynamic web page.
+Ans: A distinguish between a static web page and a dynamic web page.
+    In static web page:- it doesnot interact with databases. it conyent remains the same for all users.
+  In dynamic web pages:- it interact with databases. it content changes based as user interaction or data.
+
+Group B: Long Questions (4 Marks)
+5. Explain the client-server architecture of the web .
+ Ans:- In todays connected world, almost every online service we relies on a foundational model called client-server architecture. From loading web pages to using mobile apps, this structure powers the way clients (users) interact with servers (data providers).
+
+                client-server architecture is a network model in which two main entities - clients and servers communicate with ech other to complete specific tasks or share data.
+             client: The client initiates requests, waits for the server's response and displays it to the users. for instance, a web browser acts as a client when it request a websites.
+
+     Server: The server processes these requsts, retrives the relevant information, and sends it back to the client. for instance, a web server responds with websites data when a browser request it.
+
+ 
