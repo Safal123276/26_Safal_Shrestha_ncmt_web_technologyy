@@ -24,4 +24,14 @@ Group B: Long Questions (4 Marks)
 
      Server: The server processes these requsts, retrives the relevant information, and sends it back to the client. for instance, a web server responds with websites data when a browser request it.
 
- 
+ Therefore, client-server architecture is crucial in modern system design, facilitating efficient communication between users and central servers across diverse application .
+
+
+6.Describe the functuion of the following internet services: Email , FTP and VOIP.
+  Ans: 
+    Email :- It is an internet services used for sending and recieving digital messages instantly across the world. it allows users to exchanges text, documents, images and other files as attachments, making communications fast, reliable, and cost-effective for personal, academic, and professional purpose.
+
+     FTP: FTP is an internet service used to transfer files between a user's computer and a remote server. it enables uploading , downloading, and managing files efficiency, especially for large data transfers and website maintainance .
+
+
+VOIP [ Voice Over Internet Protocol]:- 
