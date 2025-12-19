@@ -34,4 +34,77 @@ Group B: Long Questions (4 Marks)
      FTP: FTP is an internet service used to transfer files between a user's computer and a remote server. it enables uploading , downloading, and managing files efficiency, especially for large data transfers and website maintainance .
 
 
-VOIP [ Voice Over Internet Protocol]:- 
+VOIP [ Voice Over Internet Protocol]:- VOIP is an internet service that allows voice and video communication over the internet instead of traditional telephone networks. It converts voice signals into digital data, enabling real-time communication at a lower cost with features such as voice calls, video calls, and conferencing.
+
+
+7.) "The internet is a networks." Elaborate on this statement explaining how packet switching works.
+  Ans:
+     The internet is called a "Network of Network " because it is made up of millions of interconnected smaller networks, office networks, and internet .
+service provider (ISP) networks. These independent networks are linked together using standard communication protocols, allowing devices worldwide to communicate with each other a a single global system.
+
+       Packet switching is the method used by the internet to transmit data efficiently . In packets switching, large data messages are broken into smaller units called packets. Each packet contains the sources address, destination address, and sequence information , allowig it to travel independently through different routes across the network.
+
+     As packets move through the internet, routers direct them along the most efficient avaiable paths. Some packets may take different routes due to traffic or networks condition. When all packets reach the destinations , they are reasembeled in the correct order to recreate the original message . This method makes the internet fast, reliable and capable of handling multiple communication simultaneously .
+
+
+
+    GROUP - C
+
+8.) A startup company wants to host a websites that display the same information to all visitor and require very low cost . However , they are being advised to use a dynamic websites. As a consultant, would you agree? Justify your answer.
+ ANS: 
+  As a consultant, I would not recommend a dynamic website for this startup . The company wants a website that shows the same information to all visitors. Ins tead I would like to recommended static websites.
+
+     The company wants a website that display the same information to all visitor . A static websites is ideal in this case with several key of advantages over a dynamic website in this context:
+
+                   1.) Security : By eliminating server-side components and databases, the attack surface for potential security threats  is drastically minimized, making the site inherently more secure.
+
+ 2.) Performance and Reliability: With no srver side processing, static websites are extremely fast and reliable. Content can be hosted on a Content Delivery Network (CDN) to ensure fast load times globally, offering excellent user experience.
+
+    3.) low maintenance costs : Static sites consist of pre-built files served directly to the user. They do not require a back-end server, database, or server-side programming languages to generate content on the fly. This significantly reduces maintenance overhead, updates, and potential vulnerabilities compared to a dynamic site.
+
+  4.) Simplicity and Scalability: Static sites are simple to develop, host, and scale. They can handle high traffic volumes efficiently without complex infrastructure management .
+
+The disadvantages og dynamic sites for beginner company:
+  1.) Higher Development and Maintenance Costs : Dynamic websites are more complex to build and maintain than static websites. The development process involves server-side programming, database integration, and continuous maintenance, which requires a higher level of technical expertise.
+
+2.) Expensive Hosting Needs : Dynamic websites rely on databases and server-side scripting, which require more powerful hosting environments. Hosting a dynamic site is generally more expensive than hosting a static site because it demands more processing power and larger servers capable of supporting real-time content updates.
+
+ 3.) Slower Loading Time : Dynamic websites are typically slower than static websites because they generate content on the fly by querying databases. If the site is not properly optimized, this can result in slow loading times, negatively affecting user experience and increasing bounce rates.
+
+therefore, considering the need for uniform content and low maintenance, a static website is the most practical, cost-effective, and efficient solution for the startup.
+
+
+9.) A user types www.google.com into their browser, but the browser displays a ”Server Not
+Found” error, even though the internet connection is active. However, accessing the site
+via 142.250.190.46 works. Diagnose the problem and explain the underlying technology
+that failed.
+     ANS: 
+    The problem here is a DNS (Domain Name System) failure.
+
+When a user types www.google.com into the browser, the browser does not directly understand this human-readable name. Instead, it must first convert the domain name into an IP address using the Domain Name System (DNS). DNS acts like the phonebook of the Internet, mapping domain names to their corresponding IP addresses.
+
+In this case, accessing the website using the IP address 142.250.190.46 works, which proves that:
+      1.The internet connection is active
+       2.The web server of Google is reachable
+         3.The problem is not with the server or network connectivity
+
+The failure occurs during DNS name resolution. The DNS server being used by the device is either:
+1.Not responding
+2.Misconfigured
+3.Temporarily unavailable
+4.Blocked by firewall or network settings
+Because of this, the browser cannot translate www.google.com into iots IP address and shows the error "Server Not Found."
+ 
+In summary, the issue is caused by a DNS resolution failure. Using the IP address bypasses DNS, which is why the website loads successfully when accessed directly through 142.250.190.46.
+
+
+10.) A multinational corporation wants to share sensitive inventory data with specific suppliers
+but does not want this information available to the general public. Explain which network
+type (Intranet, Extranet, or Internet) they should implement and why.
+    ANS: 
+    An Extranet is a private network that allows controlled access to specific external users such as suppliers, partners, or vendors, while keeping the internal company data protected from the general public . it is built using internet technologies but secured through authentication methods like users IDs, passwords, VPNs, and encryption.
+
+  in this case, the company wants to share sensitive inventory data only with selected suppliers, not with everyone. An internet would not be suitable because it allow to internal employees only. the internet is also inappropriate because it is a public network where information is accessible to anyone, which would risk data security.
+
+  Therefore, an extranet is the best choice as it provides secure, limited, and role-based access to authorized suppliers while maintaining confidentiality and protecting sensitive business information.
+    
