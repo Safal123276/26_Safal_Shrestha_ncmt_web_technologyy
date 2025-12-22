@@ -8,7 +8,7 @@ Ans:- In the internet, a protocol is a standardized set of rules and formats tha
 Ans: Web Browser is an application used to access and display web pages. whereas Search engine is a web-based service used to find information on the internet.
 
 3.)  Define the World Wide Web (WWW).
-Ans: The World Wide Web [WWW] is a sustem of interlinked web pages and multimedia resources that are accessed over the internet using web browser through HTTP/HTTPs protocols.
+Ans: The World Wide Web [WWW] is a system of interlinked web pages and multimedia resources that are accessed over the internet using web browser through HTTP/HTTPs protocols.
 
 4.)  Distinguish between a static web page and a dynamic web page.
 Ans: A distinguish between a static web page and a dynamic web page.
