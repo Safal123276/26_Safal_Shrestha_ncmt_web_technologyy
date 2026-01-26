@@ -1,0 +1,41 @@
+@import url(https://fontawesome.com/search?q=twi);
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+
+html{
+    overflow-x: hidden;   /* sideways scroll रोक्न */
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    overflow-y: auto;     /* scroll allow */
+    background: linear-gradient(
+    to right,
+    #ffffff,
+    #fed7ad
+  );
+}
+
+
+
+
+nav{
+    width: 100%;
+    position: sticky;
+    top: 0;
+}
+
+.nav-container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
