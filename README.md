@@ -1,2 +1,2 @@
 My portfolio 
-URL LINK: http://127.0.0.1:5500/Portfolio/docs/index.html
+My portfolio is live at: (https://safal123276.github.io/My-Portfolio/)
